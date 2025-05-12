@@ -9,4 +9,4 @@ is parallel, so you will only be able to speed up that percentage of your progra
 threads. It seems we maxed out at a 10 times increase in Speedup which I believe indicates that 
 about 10% of our program is serialized. Therefore the performance plateaus.
 	
-![test](images/Speedup%20vs%20Threads.png)
+![Speedup vs. Threads](images/ThreadSpeedup.png)
