@@ -15,8 +15,8 @@ PCIE make iota.cpu faster.
 
 **Julia CPU**
 
-![julia-CPU](Project-4/julia-CPU.png)
+![julia-CPU](julia-CPU.png)
 
 **Julia GPU**
 
-![julia-GPU](Project-4/julia-GPU.png)
+![julia-GPU](julia-GPU.png)
